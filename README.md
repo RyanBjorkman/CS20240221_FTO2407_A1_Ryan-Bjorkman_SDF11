@@ -21,4 +21,5 @@ Check out the Project Overview in this GitHub Repo for the guide to talking poin
 
 #Slides presentation: https://docs.google.com/presentation/d/10DmTS8HZ5neXKQiSpT4Dsvb3To34wtG-1Iy_U65GiAY/edit?usp=sharing
 
-#Loom presentaion: 
+#Loom presentaion: https://www.loom.com/share/2c016c50130d4ba68e1ee3a1116a740a?sid=16e5f8d2-1cc9-4040-b983-f133cccc802c
+
